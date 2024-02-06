@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#Bio
+# Bio
 
 I am a current 3rd year undergraduate student at Christopher Newport University working on a Bachelor's degree in cyber security. One of my goals as a student is to stay up to date in the world of internet security while constantly learning and adding new security tools and techniques to my toolbox. My main goal is to use my skills to make the applications and networks more secure in order to build trust among users and maintain integrity of systems.
 
@@ -12,7 +12,9 @@ Team based project where we built a local development enviroment, used git repos
 * [Simple Inventory System](https://github.com/TCVoell/cpsc336-fa23-pingdom).
 
 ### Certifications
+
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="42d45c48-8844-4970-9718-1334d99d54b5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-#### Contact info.
+#### email and social media
 * martindrew01@gmail.com
+* [Linkedin](https://www.linkedin.com/in/andrew-martin-59652725b/).
